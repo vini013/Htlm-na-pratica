@@ -1,0 +1,20 @@
+h4 {
+    color:black;
+    
+}
+
+body {
+    background-color: rgba(200, 233, 200, 0.603);
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.list-style {
+    font-style: italic;
+    line-height: 30px;
+    text-decoration: underline;
+
+}
+
